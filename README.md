@@ -1,5 +1,5 @@
 # analysisregressionautomotion
-**A simple predictive analysis, regression, about gold's opening value, and automotion using jupter.** 
+** A simple predictive analysis, regression, about gold's opening value, and automotion using jupter. ** :hammer:
 Here, i used:
 1. sklearn for Linear Regression;
 2. pyautogui and selenium for automotion; 
